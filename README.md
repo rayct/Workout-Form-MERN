@@ -1,0 +1,8 @@
+# A Workout App using the MERN Tech Stack with Authentication.
+
+A Full-stack Web Application using the MERN Stack
+Demonstrating all core principles of Back-end and Front-end.
+
+1. React for the Front-end
+2. Express and Node.js for the Back-end
+3. MongoDB a No SQL Database to Application Data
