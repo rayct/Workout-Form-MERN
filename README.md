@@ -1,4 +1,4 @@
-# A Workout App using the MERN Tech Stack with Authentication.
+# A Workout Web App with Authentication using the MERN Tech Stack .
 
 A Full-stack Web Application using the MERN Stack
 Demonstrating all core principles of Back-end and Front-end.
