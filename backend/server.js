@@ -6,13 +6,13 @@ const express = require('express')
 const app = express()
 
 // middleware
-app.use((req, res, next) => {
+app.use((req, _res, next) => {
   console.log(req.path, req.method)
   next()
 })
 
 // routes
-app.get('/', (req, res) => {
+app.get('/', (_req, res) => {
   res.json({mssg: 'Welcome to the app'})
 })
 
