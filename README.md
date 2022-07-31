@@ -1,7 +1,7 @@
 # Workout Web App built with the MERN-Stack
 
 A Full-stack Web Application using the MERN Stack
-Demonstrating all core principles of Back-end and Front-end.
+Demonstrating all core principles for the Back-end and Front-end.
 
 1. React for the Front-end
 2. Express and Node.js for the Back-end API
