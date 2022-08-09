@@ -1,4 +1,5 @@
 # Workout Web App built with the MERN-Stack by: Ray Turner
+## Completed Wed 10 Aug 2022
 
 A Full-stack Web Application using the MERN Stack
 Demonstrating all core principles for the Back-end and Front-end.
